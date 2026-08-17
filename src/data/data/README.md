@@ -63,27 +63,12 @@ Evaluation metrics:
 Grad-CAM is used to visualize the image regions that contributed
 to the model's prediction.
 
-## 🏗️ Architecture
-
-[architecture diagram]
-
-## 📊 Results
-
-| Model | Accuracy | Precision | Recall | F1 |
-|------|----------|-----------|--------|----|
-| MobileNetV3 | XX | XX | XX | XX |
-| ResNet50 | XX | XX | XX | XX |
-| EfficientNet | XX | XX | XX | XX |
-
-## 🖥️ Demo
-
-[Add screenshot/GIF]
-
 ## ⚙️ Installation
 
 ```bash
 git clone YOUR_REPOSITORY_URL
 cd ai-crop-disease-prediction
+www.agriai.farm
 
 python -m venv venv
 
